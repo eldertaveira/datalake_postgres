@@ -1,9 +1,10 @@
 # datalake_postgres
+
 dllocal
+
 Projeto contendo datalake de desenvolvimento. Três instâncias do postegres rodando em containers diferentes.
 
 Instruções
-
 
 Estando na pasta onde está o arquivo docker-compse.yml, no terminal digite: "docker-compose up"
 
